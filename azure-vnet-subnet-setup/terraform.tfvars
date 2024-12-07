@@ -1,0 +1,5 @@
+resource_group_name   = "rg-static-website"
+vnet_name             = "static-vnet"
+vnet_address_space    = "10.0.0.0/12"
+subnet_name           = "static-subnet"
+subnet_address_prefix = "10.0.1.0/24"
