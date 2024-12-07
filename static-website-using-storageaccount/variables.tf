@@ -1,6 +1,6 @@
 variable "location" {
   description = "Azure region for the resources"
-  default     = "India Central"
+  default     = "centralindia"
 }
 variable "resource_group_name" {
   description = "Name of the resource group"
